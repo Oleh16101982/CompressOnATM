@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2008.04.04 17:21:38.952.pas,C:\Documents and Settings\BaranovO\Мои документы\Borland Studio Projects\Unit3.pas=D:\Project\CompressOnATM\RecvOnFTP\20080404\FTPFromATM.pas</Transaction>
+    <Transaction>2008.04.04 17:21:38.968.dfm,C:\Documents and Settings\BaranovO\Мои документы\Borland Studio Projects\Unit3.dfm=D:\Project\CompressOnATM\RecvOnFTP\20080404\FTPFromATM.dfm</Transaction>
+    <Transaction>2008.04.04 17:21:59.238.bdsproj,C:\Documents and Settings\BaranovO\Мои документы\Borland Studio Projects\Project3.bdsproj=D:\Project\CompressOnATM\RecvOnFTP\20080404\Main.bdsproj</Transaction>
+    <Transaction>2008.04.04 17:25:49.907.pas,D:\Project\CompressOnATM\RecvOnFTP\20080404\Unit1.pas=D:\Project\CompressOnATM\RecvOnFTP\20080404\clThWork1.pas</Transaction>
+    <Transaction>2008.04.07 12:02:58.023.pas,D:\Project\CompressOnATM\RecvOnFTP\20080404\Unit1.pas=D:\Project\CompressOnATM\RecvOnFTP\20080404\clThATMFtp1.pas</Transaction>
+    <Transaction>2008.04.07 14:51:10.216.pas,D:\Project\CompressOnATM\RecvOnFTP\20080404\Unit1.pas=D:\Project\CompressOnATM\RecvOnFTP\20080404\clFTPATM1.pas</Transaction>
+    <Transaction>2008.04.25 17:13:50.902.pas,D:\Project\CompressOnATM\RecvOnFTP\20080404\Unit1.pas=D:\Project\CompressOnATM\RecvOnFTP\20080404\clThPharseTrace1.pas</Transaction>
+    <Transaction>2008.04.29 09:23:33.608.pas,D:\Project\CompressOnATM\RecvOnFTP\20080404\Unit1.pas=D:\Project\CompressOnATM\RecvOnFTP\20080404\clPharseJrn1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
